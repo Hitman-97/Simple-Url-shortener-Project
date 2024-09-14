@@ -1,0 +1,6 @@
+pip install Flask
+
+url_shortener/
+├── app.py
+├── database.db
+└── requirements.txt
